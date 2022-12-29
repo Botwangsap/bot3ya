@@ -13,7 +13,7 @@ global.APIs = {
     //gausah di apa² in!
     zenz: 'https://zenzapis.xyz',
 }
-global.autorecording = false //status auto merekam ( auto record )
+global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
@@ -23,33 +23,33 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
-global.namabot = '𝐍𝟒𝐍𝐇𝐄𝐑𝚯彡𝐁𝚯𝐓々'
-global.namaowner = '𝐍𝟒𝐍𝐇𝐄𝐑𝚯々𝚯𝐅𝐂彡'
+global.namabot = 'AnggaKzBotz🔥'
+global.namaowner = 'AnggaBotz😏😇🥰'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6283841800798']
-global.ownernomer = "6283841800798"
-global.premium = ['6283892570490','6287717913821']
+global.owner = ['6283191486089']
+global.ownernomer = "6283191486089"
+global.premium = ['6283191486089','66652963765']
 
 //—————「 Setting yt 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.yt = ['https://www.youtube.com/@n4nherofc']
+global.yt = ['https://www.instagram.com/anggatzi123']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
 global.email = 'lupa🥲'
-global.namaweb = 'Youtube'
-global.myweb = 'https://www.instagram.com/n4nh3ro'
+global.namaweb = 'instagram'
+global.myweb = 'https://www.instagram.com/anggatzi123'
 global.region = 'Konoha'
 global.github = 'lupa🥲'
-global.mygc = 'https://chat.whatsapp.com/JudwpzpAOrKC5y5pqZY3rS'
-global.mytt = 'tiktok.com/@nanh3r0_'
+global.mygc = 'https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p'
+global.mytt = 'https://www.instagram.com/anggatzi123'
 
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
-global.packname = '𝐍𝟒𝐍𝐇𝐄𝐑𝚯々𝚯𝐅𝐂彡'
-global.author = 'WhatsApp Bot'
+global.packname = 'AnggaKz🔥😏彡'
+global.author = 'Ban wangsap🔥😏😚'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² ini!
@@ -92,8 +92,8 @@ global.limitawal = {
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
 global.thumb = fs.readFileSync('./raffxmedia/image/raffx.jpg')
 global.kurome = { url: 'https://telegra.ph/file/de381b0caeb315a99c68a.mp4' }
-global.botname = '𝐍𝟒𝐍𝐇𝐄𝐑𝚯彡𝐁𝚯𝐓々'
-global.akulaku = '𝐍𝟒𝐍𝐇𝐄𝐑𝚯々𝚯𝐅𝐂彡'
+global.botname = 'AnggaKz彡𝐁𝚯𝐓々'
+global.akulaku = 'AnggaKzbotz彡'
 global.ttname = 'lupa🙂'
 
 //—————「 Set Random Image Menu 」—————//
